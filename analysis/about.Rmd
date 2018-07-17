@@ -5,4 +5,4 @@ output:
     toc: false
 ---
 
-Describe your project.
+This is an example project created at the workflowr workshop at Melbourne Integrative Genomics on 17/7/2018.
