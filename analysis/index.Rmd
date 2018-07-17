@@ -7,3 +7,5 @@ output:
 ---
 
 This is a test page created at the workflowr workshop at Melbourne Integrative Genomics, 17/7/2018.
+
+Click on this [link](new.html) to see my results.

@@ -1,11 +1,11 @@
 ---
-title: "new"
+title: "A New Hope"
 author: "Yao-ban Chan"
 date: "2018-07-17"
 output: workflowr::wflow_html
 ---
 
-## Introduction
+## Introduction - this is not a comment
 
 Hello. My name is Inigo Montoya. You killed my father. Prepare to die.
 
