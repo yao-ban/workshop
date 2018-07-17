@@ -1,0 +1,20 @@
+---
+title: "new"
+author: "Yao-ban Chan"
+date: "2018-07-17"
+output: workflowr::wflow_html
+---
+
+## Introduction
+
+Hello. My name is Inigo Montoya. You killed my father. Prepare to die.
+
+```{r}
+(numbers <- rnorm(10))
+```
+
+My hand are typing words.
+
+```{r}
+sum(numbers^2)
+```
